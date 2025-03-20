@@ -1,0 +1,5 @@
+hola
+Muy buenas
+¿cómo estáis?
+Adios
+FIN
