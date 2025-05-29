@@ -1,5 +1,5 @@
-nombre,apellido,telefono,fecha_reserva,dias_estancia
-Carlos,González,+34612345601,2025-06-01,5
+nombre,apellido,telefono,fecha_reserva,dias_estanciaCarlos
+González,+34612345601,2025-06-01,5
 Lucía,Fernández,+34612345602,2025-06-03,3
 Miguel,Ramírez,+34612345603,2025-06-05,7
 Ana,Sánchez,+34612345604,2025-06-07,4
